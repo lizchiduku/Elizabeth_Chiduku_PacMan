@@ -3,3 +3,5 @@
 #Changed the world map to make the maze more interesting!
 #Get cherries to appear. Cherry = 50 pts.
 #PacMan to lookup up/down/left/right depending on the direction PacMan is moving.
+
+Still working on making the ghost move
